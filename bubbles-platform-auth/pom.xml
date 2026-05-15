@@ -15,7 +15,7 @@
     <packaging>pom</packaging>
 
     <modules>
-        <module>bubbles-platform-auth-server</module>
+        <module>bubbles-platform-auth-service</module>
         <module>bubbles-platform-auth-api</module>
     </modules>
 

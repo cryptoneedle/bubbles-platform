@@ -15,7 +15,7 @@
     <packaging>pom</packaging>
 
     <modules>
-        <module>bubbles-platform-system-server</module>
+        <module>bubbles-platform-system-service</module>
         <module>bubbles-platform-system-api</module>
     </modules>
 

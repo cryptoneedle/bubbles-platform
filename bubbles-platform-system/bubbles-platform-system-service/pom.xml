@@ -6,11 +6,11 @@
 
     <parent>
         <groupId>com.bubbles.platform</groupId>
-        <artifactId>bubbles-platform-gateway</artifactId>
+        <artifactId>bubbles-platform-system</artifactId>
         <version>4.0.6.2</version>
     </parent>
 
-    <artifactId>bubbles-platform-gateway-server</artifactId>
+    <artifactId>bubbles-platform-system-service</artifactId>
 
 
 </project>
