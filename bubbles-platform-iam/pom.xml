@@ -6,11 +6,20 @@
 
     <parent>
         <groupId>com.bubbles.platform</groupId>
-        <artifactId>bubbles-platform-system</artifactId>
+        <artifactId>bubbles-platform</artifactId>
         <version>4.0.6.2</version>
     </parent>
 
-    <artifactId>bubbles-platform-system-service</artifactId>
+    <artifactId>bubbles-platform-iam</artifactId>
 
+    <packaging>pom</packaging>
+
+    <name>${project.artifactId}</name>
+    <description>
+        Bubbles Platform Tenant - Bubbles 平台 - 租户模块
+    </description>
+
+    <modules>
+    </modules>
 
 </project>

@@ -16,11 +16,7 @@
 
     <modules>
         <module>bubbles-platform-gateway</module>
-        <module>bubbles-platform-auth</module>
-        <module>bubbles-platform-user</module>
-        <module>bubbles-platform-system</module>
-        <!--<module>bubbles-platform-infra</module>-->
-        <!--<module>bubbles-platform-test</module>-->
+        <module>bubbles-platform-iam</module>
     </modules>
 
     <dependencyManagement>

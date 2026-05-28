@@ -11,12 +11,14 @@
     </parent>
 
     <artifactId>bubbles-platform-gateway</artifactId>
-
     <packaging>pom</packaging>
 
+    <name>${project.artifactId}</name>
+    <description>
+        Bubbles Platform Gateway - Bubbles 平台 - 网关模块
+    </description>
+
     <modules>
-        <module>bubbles-platform-gateway-service</module>
-        <module>bubbles-platform-gateway-api</module>
     </modules>
 
 </project>
